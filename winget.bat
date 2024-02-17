@@ -1,5 +1,10 @@
 @echo off
-color 1f
+#echo  __          _______ _   _  _____ ______ _______ 
+#echo  \ \        / /_   _| \ | |/ ____|  ____|__   __|
+#echo   \ \  /\  / /  | | |  \| | |  __| |__     | |   
+#echo    \ \/  \/ /   | | | . ` | | |_ |  __|    | |   
+#echo     \  /\  /   _| |_| |\  | |__| | |____   | |   
+#echo      \/  \/   |_____|_| \_|\_____|______|  |_| 
 echo Please execute as administrator
 winget list
 winget upgrade --all
